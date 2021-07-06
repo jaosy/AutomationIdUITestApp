@@ -1,0 +1,16 @@
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\test-cloud.exe
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\AutomationIdUnitTests.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\AutomationIdUnitTests.pdb
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\AutomationIdUITestApp.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\nunit.framework.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\Xamarin.UITest.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\AutomationIdUITestApp.pdb
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\nunit.framework.xml
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\Xamarin.UITest.xml
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\obj\Release\AutomationIdUnitTests.csproj.CoreCompileInputs.cache
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\obj\Release\AutomationIdUnitTests.csproj.CopyComplete
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\obj\Release\AutomationIdUnitTests.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\obj\Release\AutomationIdUnitTests.pdb
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\obj\Release\AutomationIdUnitTests.csprojAssemblyReference.cache
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\AutomationIdUITestApp.Android.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUnitTests\bin\Release\AutomationIdUITestApp.Android.pdb

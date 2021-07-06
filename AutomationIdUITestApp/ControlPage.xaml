@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AutomationIdUITestApp.MainPage">
+
+    <StackLayout>
+        <Label x:Name="UiTestModeLabel"
+               Text="Flip the switch to toggle UI test mode" 
+               AutomationProperties.IsInAccessibleTree="True"
+               FontSize="Large"></Label>
+        <Switch Toggled="OnToggleIsInUITestModeSwitch" 
+                AutomationProperties.LabeledBy="{x:Reference UiTestModeLabel}"
+                HorizontalOptions="CenterAndExpand"></Switch>
+        <Button Text="Go to usage page"
+                Clicked="OnGoToUsagePageButtonClicked"></Button>
+    </StackLayout>
+
+</ContentPage>

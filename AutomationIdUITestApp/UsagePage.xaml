@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AutomationIdUITestApp.UsagePage"
+             xmlns:local="clr-namespace:AutomationIdUITestApp">
+
+    <ContentPage.BindingContext>
+        <local:UsagePageViewModel/>
+        
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="displayLabel" 
+                   AutomationId="{local:UITestMode AutomationId=displayInputLabel}"
+                   AutomationProperties.IsInAccessibleTree="True"
+                   Text="{Binding DisplayInput}"
+                   FontSize="Large"/>
+            
+            <Entry AutomationId="{local:UITestMode AutomationId=nameEntry}"
+                   Text="{Binding Input}"
+                   Placeholder="Your name"/>
+
+            <Button AutomationId="{local:UITestMode AutomationId=clickMeButton}"
+                    Text="Click me" 
+                    Clicked="OnClickMeButtonClicked"/>
+
+            <Label x:Name="clickButtonLabel"
+                   AutomationId="{local:UITestMode AutomationId=clickButtonLabel}"
+                   Text="Click the button!" 
+                   AutomationProperties.IsInAccessibleTree="True"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

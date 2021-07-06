@@ -1,0 +1,15 @@
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\bin\Release\netstandard2.0\AutomationIdUITestApp.deps.json
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\bin\Release\netstandard2.0\AutomationIdUITestApp.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\bin\Release\netstandard2.0\ref\AutomationIdUITestApp.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\bin\Release\netstandard2.0\AutomationIdUITestApp.pdb
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\ControlPage.xaml.g.cs
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\UsagePage.xaml.g.cs
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\AutomationIdUITestApp.AssemblyInfoInputs.cache
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\AutomationIdUITestApp.AssemblyInfo.cs
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\AutomationIdUITestApp.csproj.CoreCompileInputs.cache
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\XamlC.stamp
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\AutomationIdUITestApp.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\ref\AutomationIdUITestApp.dll
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\AutomationIdUITestApp.pdb
+D:\xamarin-candidate-apps\AutomationIdUITestApp\AutomationIdUITestApp\obj\Release\netstandard2.0\AutomationIdUITestApp.csprojAssemblyReference.cache
